@@ -14,7 +14,7 @@
 - **Документация:** Swagger
 
 ### 📫 Как со мной связаться
-- [Teleman] (https://t.me/твой_ник)
+- [Teleman] (https://t.me/Boris80lb)
 - [Email] lelkovb@gmail.com
 
 ### 📌 Закрепленные проекты
