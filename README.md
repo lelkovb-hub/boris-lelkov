@@ -13,15 +13,17 @@
 - **Инструменты:** Git, DevTools
 - **Документация:** Swagger
 
-## Портфолио (GitHub)
-
+### 📌 Закрепленные проекты
+Ниже представлены мои учебные проекты с автотестами и тестовой документацией. Добро пожаловать в мое портфолио!
+#### Портфолио (GitHub)
 - **Профиль и визитка:** [github.com/lelkovb-hub/boris-lelkov](https://github.com/lelkovb-hub/boris-lelkov)
 - **Ручное тестирование (тест-кейсы, отчеты):** [github.com/lelkovb-hub/test-documentation](https://github.com/lelkovb-hub/test-documentation)
 - **Автотесты Python + Selenium + Allure:** [github.com/lelkovb-hub/ui-autotests-python](https://github.com/lelkovb-hub/ui-autotests-python)
 
-### 📫 Как со мной связаться
-- [Teleman] (https://t.me/Boris80lb)
-- [Email] lelkovb@gmail.com
 
-### 📌 Закрепленные проекты
-Ниже представлены мои учебные проекты с автотестами и тестовой документацией. Добро пожаловать в мое портфолио!
+*"Портфолио содержит: тест-кейсы (100+), отчет о регрессионном тестировании с выводами о готовности продукта, автотесты на Python с использованием Selenium WebDriver, Pytest, Allure (настроены визуальные отчеты), баг-репорты."*
+
+### 📫 Как со мной связаться
+- [Telegram] (https://t.me/Boris80lb)
+- [Email] lelkovb@gmail.com
+- [Telephone] +998 94 511-32-07
