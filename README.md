@@ -13,6 +13,12 @@
 - **Инструменты:** Git, DevTools
 - **Документация:** Swagger
 
+## Портфолио (GitHub)
+
+- **Профиль и визитка:** [github.com/lelkovb-hub/boris-lelkov](https://github.com/lelkovb-hub/boris-lelkov)
+- **Ручное тестирование (тест-кейсы, отчеты):** [github.com/lelkovb-hub/test-documentation](https://github.com/lelkovb-hub/test-documentation)
+- **Автотесты Python + Selenium + Allure:** [github.com/lelkovb-hub/ui-autotests-python](https://github.com/lelkovb-hub/ui-autotests-python)
+
 ### 📫 Как со мной связаться
 - [Teleman] (https://t.me/Boris80lb)
 - [Email] lelkovb@gmail.com
